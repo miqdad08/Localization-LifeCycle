@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localization-Lifecycle</string>
+    <string name="onClick">Klik Ae Boss</string>
+    <string name="onCreate">onCreate dipanggil</string>
+</resources>

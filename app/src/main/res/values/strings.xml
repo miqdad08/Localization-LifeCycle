@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Localization-Lifecycle</string>
+    <string name="onClick">Click Here</string>
+    <string name="onCreate">onCreate Invoke</string>
+</resources>
